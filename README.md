@@ -8,7 +8,7 @@ This runs in two steps:
 
 To optimize the process:
   - Create multiple accounts, at least one per subreddit to scrape; they will get banned quickly.
-  - Go to a subreddit like r/learnprogramming, r/starterpack, etc. and comment on people's posts to gain karma. Last time we checked, you need about 50 karma to remove the reCaptcha feature from the direct messaging feature, which allows automated DM-ing.
-  - Once you have 50 karma, the DM feature should be reCaptcha-free and you can start DM-ing.
+  - Go to a subreddit like r/learnprogramming, r/starterpack, etc. and comment on people's posts to gain karma. Last time we checked, you need 5 karma to remove the reCaptcha feature from the direct messaging feature, which allows automated DM-ing.
+  - Once you have 5 karma, the DM feature should be reCaptcha-free and you can start DM-ing.
   
 Repeat as many times as needed, and try to make the Google Form surveys as simple and short as possible (5-6 short answer questions work best)!
