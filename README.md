@@ -1,6 +1,6 @@
-# Fractal Reddit Wesbcraping
+# Fractal Reddit Webscraping
 
-This repo contains Python scripts used to scrape subreddit posts and send automated DMs to scrapped usernames. We mainly use them for customer research; if using this script to do customer research, it is best to run it at a single time and try to really get as many DMs as possible out there as the Reddit account will get banned within about a day, or even within a few hours.
+This repository contains Python scripts used to scrape subreddit posts and send automated DMs to scrapped usernames. We mainly use them for customer research; if using this script to do customer research, it is best to run it at a single time and try to really get as many DMs as possible out there as the Reddit account will get banned within about a day, or even within a few hours.
 
 This runs in two steps:
   - First, scrape usernames from posts and collect a list of them in a Python notebook.
