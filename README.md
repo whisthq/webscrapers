@@ -2,7 +2,7 @@
 
 This repository contains Python scripts used to scrape subreddit posts and send automated DMs to scrapped usernames. We mainly use them for customer research. If using this script to do customer research, it is best to run it at a single time and try to really get as many DMs as possible out as the Reddit account will get banned within about a day, or even within a few hours.
 
-As of July 2020, Reddit added a feature limiting DM-ing to 10 messages every 2 minutes, which requires throttling the algorithm to sleep for 2 minutes every 10 messages. Depending on when you're using it, you may need to experiment slightly to circumvent the Reddit barriers.
+As of July 2020, Reddit added a feature limiting DM-ing to 10 messages every 2 minutes, which requires throttling the algorithm to sleep for 2 minutes every 10 messages. Depending on when you're using it, you may need to experiment slightly to circumvent the Reddit barriers. 
 
 This runs in two steps:
   - First, scrape usernames from posts and collect a list of them in a Python notebook -- there are no limitations on this step.
