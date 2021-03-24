@@ -1,4 +1,4 @@
-# Fractal Webscraping
+# Fractal Webscrapers
 
 This repository contains Python scripts used to scrape Reddit and Quora posts and send automated DMs to scrapped usernames. We mainly use them for customer research. If using this script to do customer research, it is best to run it at a single time and try to really get as many DMs as possible out as the Reddit/Quora account will get banned within about a day, or even within a few hours.
 
